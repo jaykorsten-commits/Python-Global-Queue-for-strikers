@@ -1,5 +1,8 @@
 # Roblox Global Queue Backend
 
+> **New here?** Start with **[HANDOFF.md](HANDOFF.md)** — it's the entry point for handing this repo to another developer.
+> Using an AI agent (Devin, Claude, Cursor, etc.)? Point it at **[AGENTS.md](AGENTS.md)**.
+
 FastAPI backend for a Roblox game’s global matchmaking queue (solo/party, regions, queue types, 5v5/7v7).
 
 ## Stack
